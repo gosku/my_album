@@ -1,0 +1,867 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ret",
+				"ret_menu"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"codeig",
+				"codeigniter"
+			],
+			[
+				"cli",
+				"clickHandler"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"max-h",
+				"max-height"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"slideB",
+				"slideMenuButton"
+			],
+			[
+				"border-ra",
+				"border-bottom-right-radius"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"A",
+				"A4C2F9"
+			],
+			[
+				"ad",
+				"addClass  (function)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"fila",
+				"filasjson"
+			],
+			[
+				"toF",
+				"toFixed  (function)"
+			],
+			[
+				"bacground",
+				"background	background-repeat: r/r-x/r-y/n-r"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"g",
+				"getElementById  (function)"
+			],
+			[
+				"to",
+				"toggle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"chart",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"git",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"docu",
+				"Snippet: document.ready - $(function()"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"gitgra",
+				"Git: Graph All"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"commit",
+				"Git: Amend Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"stage",
+				"Git: Stash Changes"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"back",
+				"Snippet: background-color: hex"
+			],
+			[
+				"jq",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"margin",
+				"Snippet: margin: all"
+			],
+			[
+				"text",
+				"Snippet: text-align: left/center/right"
+			],
+			[
+				"marg",
+				"Snippet: margin-left: length"
+			],
+			[
+				"",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"bracket",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"brac",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"brack",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gosku/Dropbox/Sites/myapps/manage.py",
+		"/Users/gosku/Dropbox/Sites/myapps/db.sqlite3",
+		"/Users/gosku/Dropbox/Sites/myapps/.DS_Store",
+		"/Users/gosku/Dropbox/Sites/myapps/album/templates/album/category.html",
+		"/Users/gosku/Dropbox/Sites/myapps/album/views.py",
+		"/Users/gosku/Dropbox/Sites/myapps/album/models.py",
+		"/Users/gosku/Dropbox/Sites/myapps/album/admin.py",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniterTutorial/application/libraries/menu.php",
+		"/Users/gosku/Dropbox/Sites/myapps/myapps/settings.py",
+		"/Users/gosku/Downloads/exported_tracks.txt",
+		"/Users/gosku/Dropbox/Public/joystick.AppleRemote.xml",
+		"/Applications/XBMC.app/Contents/Resources/XBMC/system/keymaps/keyboard.xml",
+		"/Users/gosku/Dropbox/Public/keyboard.xml",
+		"/Users/gosku/Downloads/demo2/app/index.html",
+		"/Users/gosku/Downloads/demo2/app/scripts/main.js",
+		"/Users/gosku/Downloads/demo2/app/styles/main.scss",
+		"/Users/gosku/Downloads/demo2/Gruntfile.js",
+		"/Users/Gosku/Dropbox/Sites/mampBAK/demo2/app/index.html",
+		"/Users/Gosku/Dropbox/Sites/mampBAK/demo2/app/styles/main.scss",
+		"/Users/Gosku/Dropbox/Sites/mampBAK/demo/app/styles/main.scss",
+		"/Users/Gosku/.bash_profile",
+		"/Users/gosku/Dropbox/Sites/mampBAK/Yeoman2/app/scripts/main.js",
+		"/Users/gosku/Dropbox/Sites/mampBAK/Yeoman2/app/index.html",
+		"/Users/gosku/Dropbox/Sites/mampBAK/Yeoman2/app/scripts/main2.js",
+		"/Users/gosku/Dropbox/Sites/mampBAK/Yeoman2/Gruntfile.js",
+		"/Users/gosku/Dropbox/Sites/mampBAK/YeomanWebAppProject/app/styles/main.scss",
+		"/Users/gosku/Dropbox/Sites/mampBAK/Yeoman3/app/index.html",
+		"/Users/gosku/.bash_profile",
+		"/Users/gosku/Dropbox/Sites/mampBAK/YeomanWebAppProject/Gruntfile.js",
+		"/Users/gosku/Dropbox/Sites/mampBAK/YeomanWebAppProject/app/index.html",
+		"/Users/gosku/Dropbox/Sites/mamp/tuentix2.0/funciones.php",
+		"/Users/gosku/Dropbox/Sites/tuentix/tuentix2.0/index.php",
+		"/Users/gosku/Dropbox/Sites/mampBAK/CodeIgniter/application/controllers/spreads.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/controllers/spreads.php",
+		"/Users/gosku/Dropbox/Sites/mamp/demo/Gruntfile.js",
+		"/Users/gosku/Dropbox/Sites/mamp/demo/plotquery.php",
+		"/Users/gosku/Dropbox/Sites/m2forex/12-11-05/spreadsandchart/chart.html",
+		"/Users/gosku/Dropbox/Sites/mamp/demo4/Gruntfile.js",
+		"/Users/gosku/Dropbox/Sites/mamp/demo4/app/index.html",
+		"/Users/gosku/Dropbox/Sites/mamp/demo4/package.json",
+		"/Users/gosku/Dropbox/Sites/mamp/demo3/app/codeigniter/application/views/header.php",
+		"/Users/gosku/Dropbox/Sites/mamp/demo3/app/codeigniter/application/views/footer.php",
+		"/Users/gosku/Dropbox/Sites/mamp/demo3/app/codeigniter/application/views/demo1.php",
+		"/Users/gosku/Dropbox/Sites/mamp/demo3/app/codeigniter/application/controllers/start.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/controllers/prueba.php",
+		"/Users/gosku/Dropbox/Sites/mamp/demo3/app/index.html",
+		"/Users/gosku/Dropbox/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/gosku/Dropbox/Sites/mamp/demos/application/views/index.html",
+		"/Users/gosku/npm-debug.log",
+		"/Applications/mampstack-5.4.36-0/properties.ini",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/system/core/Loader.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/cursos/cursos.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/cursos/headers.php",
+		"/Users/Gosku/Dropbox/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/cursos/index.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/cursos/formulario.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/prueba/formulario.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/prueba/bienvenido.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/controllers/prueba.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/models/prueba_model.php",
+		"/Users/Gosku/Dropbox/Sublime Text 2/Packages/User/thiso.sublime-snippet",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/prueba/formulario.php",
+		"/Users/Gosku/Dropbox/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/Gosku/Dropbox/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Gosku/Dropbox/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Gosku/Dropbox/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gosku/Dropbox/Sites/mamp.sublime-project",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/formulario.php",
+		"/Users/Gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/formulario.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/config/database.php",
+		"/Users/gosku/Downloads/promises-demo/js/promises.js",
+		"/Users/Gosku/Dropbox/Sites/mamp.sublime-project",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/prueba/bienvenido.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/libraries/menu.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/prueba/headers.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/helpers/myhelper_helper.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/controllers/welcome.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/views/welcome_message.php",
+		"/Users/gosku/Dropbox/Sites/mamp/CodeIgniter/application/config/config.php",
+		"/Applications/mampstack-5.4.35-0/frameworks/codeigniter/application/index.html",
+		"/Users/gosku/Dropbox/Sites/openwebinars-demo1/index.html",
+		"/Users/gosku/Downloads/demos-clase3/dom-demo/index.html",
+		"/Users/gosku/Dropbox/Sites/openwebinars-demo1/js/main.js",
+		"/Users/gosku/myapps/myapps/urls.py",
+		"/Users/gosku/myapps/myapps/myapps/urls.py",
+		"/Users/gosku/myapps/album/views.py",
+		"/Users/gosku/myapps/album/album/views.py",
+		"/Users/gosku/Dropbox/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/gosku/Downloads/hammerhead-lrx21o/flash-all.bat",
+		"/Users/gosku/Downloads/Sql301516_1modified.sql",
+		"/private/var/folders/sC/sCnERNoFElS+IIxb7+OsBU+++TM/-Tmp-/fz3temp-1/style.css",
+		"/Users/Gosku/Downloads/sbcl-1.1.6-x86-darwin/INSTALL",
+		"/Users/Gosku/bin/emacs.sh",
+		"/Users/Gosku/Downloads/sbcl-1.1.6-x86-darwin/README",
+		"/Users/Gosku/Dropbox/Sites/pacheco/404.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/archive.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/category-blog.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/comments.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/footer.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/functions.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/image.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/index.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/instructions.html",
+		"/Users/Gosku/Dropbox/Sites/pacheco/links.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/nav.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/page-blog.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/page.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/search.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/searchform.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/sidebar.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/single.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/style.css",
+		"/Users/Gosku/Dropbox/Sites/pacheco/comments-popup.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/includes/theme-js.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/includes/theme-options.php",
+		"/Users/Gosku/Dropbox/Sites/pacheco/header.php",
+		"/private/var/folders/rs/rsca3taDE0uuMgyM7c2f0E+++TI/-Tmp-/fz3temp-1/nav.php",
+		"/private/var/folders/rs/rsca3taDE0uuMgyM7c2f0E+++TI/-Tmp-/fz3temp-1/style.css",
+		"/private/var/folders/rs/rsca3taDE0uuMgyM7c2f0E+++TI/-Tmp-/fz3temp-1/sidebar.php",
+		"/Users/gosku/Dropbox/Sites/noseque.net/nosequejquery/selects.js",
+		"/private/var/folders/sC/sCnERNoFElS+IIxb7+OsBU+++TM/-Tmp-/fz3temp-1/header.php",
+		"/Users/gosku/Dropbox/Sites/noseque.net/nosequejquery/style.css",
+		"/Users/gosku/Dropbox/Sites/noseque.net/nosequejquery/fluidVideos.js",
+		"/private/var/folders/sC/sCnERNoFElS+IIxb7+OsBU+++TM/-Tmp-/fz3temp-1/sidebar.php",
+		"/Users/gosku/Dropbox/Sites/noseque.net/nosequejquery/Noseque.net.html",
+		"/Users/gosku/Dropbox/Sites/noseque.net/nosequejquery/fixedSidebar.js",
+		"/Users/gosku/Dropbox/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/private/var/folders/sC/sCnERNoFElS+IIxb7+OsBU+++TM/-Tmp-/fz3temp-1/.htaccess"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"databases",
+			"sub",
+			"home",
+			"favori",
+			"shut",
+			"max",
+			"max-",
+			"padd",
+			"trans",
+			"bower",
+			"css",
+			"concat",
+			"cssmin",
+			"watch",
+			"h2",
+			"js",
+			"hint",
+			"serve",
+			"hint",
+			"startC",
+			"stop",
+			"query",
+			"jpy",
+			"query",
+			"ask",
+			"dato",
+			"data[index].ts",
+			"data[index].",
+			"interval",
+			"filasjs",
+			"127",
+			"query.php",
+			"ajax",
+			"value",
+			".ajax",
+			"createT",
+			"delete",
+			"fill",
+			"server",
+			"php",
+			"connect",
+			"serve",
+			"php",
+			"serve",
+			"copy",
+			"imagemin",
+			"ser",
+			"copy",
+			"move",
+			"imagemin",
+			"serve",
+			"image",
+			"gif",
+			"php",
+			" ->",
+			"data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)",
+			"<object type=\"application/x-shockwave-flash\" .* data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)\\\".*</object>",
+			"object type=\"application/x-shockwave-flash\" .* data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)\\\".*</object>",
+			"object type=\"application/x-shockwave-flash\" .* data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)\\\"",
+			"<div align=\"center\"><object type=\"application/x-shockwave-flash\" style=\"width:366px\" data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)\\\".*</object></div>",
+			"http://www.goear.com/files/external.swf?",
+			"data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)\\\"",
+			"<div style=\"text-align:center\"> <object type=\"application/x-shockwave-flash\" .* data=\"http://www.goear.com/files/external.swf\\?file=([^\"]*)\\\".*</object.</div>",
+			"<div style=\\\"text-align:center\\\"> <object type=\\\"application\\/x-shockwave-flash\\\".*data=\\\"http:\\/\\/www.youtube.com\\/v\\/([^\"]*)\\\".*</object>./div>",
+			"<div style=\\\"text-align:center\\\"> <object type=\\\"application\\/x-shockwave-flash\\\".*data=\\\"http:\\/\\/www.youtube.com\\/v\\/(.)*\\\".*</object></div>",
+			"<div style=\\\"text-align:center\\\"> <object type=\\\"application\\/x-shockwave-flash\\\" (.)* data=\\\"http:\\/\\/www.youtube.com\\/v\\/.",
+			"<div style=\\\"text-align:center\\\"> <object type=\\\"application\\/x-shockwave-flash\\\"",
+			"<div style=\"text-align:center\"> <object type=\"application/x-shockwave-flash\" style=\"width:425px; height:350px\" data=\"http://www.youtube.com/v/(^\\\")*\"><param name=\"movie\" value=\"http://www.youtube.com/v/E-cmWQlbZp8\"></param></object></div>",
+			"volcado",
+			"code",
+			"hidden",
+			"blockq",
+			"hidden",
+			"blockq",
+			"code",
+			"home",
+			"header menu",
+			".header menu",
+			"38",
+			"button",
+			"prevent",
+			"1000",
+			"targe",
+			"dropdown",
+			"webkit",
+			"dropdown ",
+			"scro",
+			"media",
+			"menubutton",
+			"header",
+			"body",
+			"180px",
+			"F2F4F7",
+			"media",
+			"button",
+			"slideSide",
+			"slideSid",
+			"border-bo",
+			"slid",
+			"gradient",
+			"button",
+			"buttom",
+			"color:",
+			"gradien",
+			"Button",
+			"media",
+			"border",
+			"#sidebar",
+			"sidebar",
+			"#sidebar",
+			"targetcategorias",
+			"background",
+			"padding",
+			"contact",
+			"ctrl+d",
+			"super+d",
+			"ctrl+d",
+			"command",
+			"media",
+			"sidebar h3",
+			"aboutme h3",
+			"search",
+			"dropdown",
+			"26px",
+			"88px",
+			"49px",
+			"26",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"->",
+			"<iframe width=\"100%\" height=\"115\" src=\"http://www.goear.com/embed/sound/$1\" marginheight=\"0\" align=\"top\" scrolling=\"no\" frameborder=\"0\" hspace=\"0\" vspace=\"0\" allowfullscreen></iframe>",
+			"<div class=\"fluidvideo\"><iframe width=\"100%\" height=\"115\" src=\"http://www.goear.com/embed/sound/$1\" marginheight=\"0\" align=\"top\" scrolling=\"no\" frameborder=\"0\" hspace=\"0\" vspace=\"0\" allowfullscreen></iframe></div>",
+			"<div class=\"fluidvideo\"><iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/$1\" frameborder=\"0\" allowfullscreen></iframe></div>",
+			"animationSpeed",
+			"F4F5F7",
+			".sidebar",
+			"15px",
+			"78px",
+			"38px",
+			"17",
+			"bottom",
+			"hide",
+			"points",
+			"\"",
+			"0.8",
+			"0.6",
+			"benefits",
+			"0.9",
+			"0.7",
+			"0.9",
+			"span",
+			"get_the_author_meta( '', $this->current_user->ID ",
+			"profile-checkbox",
+			"x.png",
+			"<td class=\\\"arrow\\\"></td>",
+			"<td class=\"arrow\"></td>",
+			"<dt>$1</dt>\n<dd>$2</dd>",
+			"<dt>(.*)</dt>\n<dd>(.*)</dd>",
+			"<option value=\"$1\">$2</option>",
+			"#categorias",
+			"<li><a href=\"$1\">$2</a></li>",
+			"<li><a href=\"$1\">Brazil</a></li>",
+			"</option>\n",
+			"\n</option>\n\n",
+			"\n\n\n",
+			"</option>\\r",
+			"</option>\\n"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"output.git":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"plo",
+				"plotquery.php"
+			],
+			[
+				"cursos",
+				"application/views/cursos/cursos.php"
+			],
+			[
+				"cursos.ph",
+				"application/controllers/cursos.php"
+			],
+			[
+				"prueba_",
+				"application/models/prueba_model.php"
+			],
+			[
+				"cur",
+				"application/controllers/cursos.php"
+			],
+			[
+				"prueba",
+				"application/controllers/prueba.php"
+			],
+			[
+				"bien",
+				"application/views/prueba/bienvenido.php"
+			],
+			[
+				"pru",
+				"application/controllers/prueba.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"sele",
+				"selects.js"
+			],
+			[
+				"fix",
+				"fixedSidebar.js"
+			],
+			[
+				"flu",
+				"fluidVideos.js"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"nose",
+				"Noseque.net.html"
+			],
+			[
+				"se",
+				"selects.js"
+			],
+			[
+				"si",
+				"fixedSidebar.js"
+			],
+			[
+				"",
+				"Noseque.net.html"
+			],
+			[
+				"sel",
+				"selects.js"
+			],
+			[
+				"sle",
+				"selects.js"
+			],
+			[
+				"mde",
+				"mdetect.js"
+			],
+			[
+				"w",
+				"/Volumes/Applications/MAMP/htdocs/widget/widget.html"
+			],
+			[
+				"q",
+				"/Volumes/Applications/MAMP/htdocs/widget/query.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
