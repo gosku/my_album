@@ -4,6 +4,7 @@ from album.models import Category, Photo
 from django.views.generic import ListView, DetailView
 from django.core.urlresolvers import reverse_lazy
 from django.views.generic.edit import UpdateView, CreateView, DeleteView
+from django.contrib.auth.decorators import login_required
 
 class PhotoUpdate(UpdateView):
     model = Photo
@@ -23,11 +24,12 @@ class PhotoDetailView(DetailView):
 
 
 def base(request):
-    return render(request, 'base.html')
+    return render(request, 'template.html')
 
 def first_view(request):
     return HttpResponse('Esta es mi primera vista!')
 
+@login_required
 def category(request):
     category_list = Category.objects.all()
     context = {'object_list': category_list}
